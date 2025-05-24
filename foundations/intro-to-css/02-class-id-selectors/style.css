@@ -1,4 +1,10 @@
+
 .color {
     background-color: rgb(255, 192, 203);
     font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#bluefont {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
 }
